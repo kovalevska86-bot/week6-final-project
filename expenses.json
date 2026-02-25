@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2026-02-25",
+        "amount": 15.5,
+        "category": "Ediens",
+        "description": "pusdienas"
+    },
+    {
+        "date": "2026-02-25",
+        "amount": 3.4,
+        "category": "Transports",
+        "description": "Buss"
+    },
+    {
+        "date": "2026-01-25",
+        "amount": 25.0,
+        "category": "Iepirkšanās",
+        "description": "Apavi"
+    }
+]
